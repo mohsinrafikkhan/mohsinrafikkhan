@@ -9,9 +9,9 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Qt_logo_2016.svg/1280px-Qt_logo_2016.svg.png" alt="Qt" width="40" height="40"/>
 <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="python" width="40" height="40"/> 
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/GitLab_logo.svg/1920px-GitLab_logo.svg.png" alt="Git Lab" height="40"/> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Jira_Software%402x-blue.png" alt="Jira" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Jenkins_logo_with_title.svg/1920px-Jenkins_logo_with_title.svg.png" alt="Jenkins" height="40"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/GitLab_logo.svg/1920px-GitLab_logo.svg.png" alt="Git Lab" width="100" height="40"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Jira_Software%402x-blue.png" alt="Jira" width="180" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Jenkins_logo_with_title.svg/1920px-Jenkins_logo_with_title.svg.png" alt="Jenkins" width="100" height="40"/> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostGreSQL" width="40" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Microsoft_Azure_Logo.svg/1920px-Microsoft_Azure_Logo.svg.png" alt="Microsoft Azure" height="25" align="top"/>
 <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/97_Docker-512.png" alt="Docker" width="40" height="40"/>
@@ -19,9 +19,9 @@
 
  
 
-* My primary coding language: C++ and C#
+* My primary coding language: C++ and C# .NetCore
 * Earned Gold badge & 5 star at HackerRank in C++ programming.
-* Earned Gold badge in problem solving at HackerRank.
+* Earned Gold badge at HackerRank in problem solving.
 * Passionate about learning new technologies specially related to ML, AR, OpenCV.
 
 ---
